@@ -10,9 +10,12 @@
 
 #### 🖥My hardware
 Desktops:
+
 ![cpu](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![gpu](https://img.shields.io/badge/AMD-Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![cpu](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![gpu](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 Laptops:
+
 ![tuf](https://img.shields.io/badge/Windows-ASUS_TUF_A15_2023-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![tuf](https://img.shields.io/badge/Windows-Acer_Aspire_5_2019-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![tuf](https://img.shields.io/badge/Windows-Acer_Aspire_E1_2013-0078D6?style=for-the-badge&logo=windows&logoColor=white)
