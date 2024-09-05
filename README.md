@@ -12,7 +12,6 @@
 Desktops:
 
 ![cpu](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![gpu](https://img.shields.io/badge/AMD-Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![cpu](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![gpu](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 Laptops:
 
